@@ -1,1 +1,1 @@
-# IT8711-FOSSandcloudcomputinglaboratory
+# IT8711-FOSS and cloud computing laboratory
